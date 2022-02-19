@@ -1,0 +1,25 @@
+#heading{
+    color: rgb(57, 104, 104);
+    text-align: center;
+    margin-top: 80px;
+}
+
+input{
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 250px;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+#form_div{
+    text-align :end;
+}
+
+button{
+    width: 150px;
+    padding: 10px;
+    margin-top: 20px;
+    color: rgb(57, 180, 133);
+    font-size: medium;
+}
