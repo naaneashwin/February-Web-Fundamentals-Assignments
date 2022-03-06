@@ -1,0 +1,28 @@
+a{
+    font-size: large;
+    margin-right: 5%;
+}
+
+.one{
+    color:black;
+}
+
+#sixth{
+    color: red;
+}
+
+nav>a{
+    font-weight: 800;
+}
+
+header nav{
+    background-color: aqua;
+}
+
+#third~a{
+    background-color: rgb(255, 153, 0);
+}
+
+#second+a{
+    background-color: rgb(214, 208, 208);
+}
